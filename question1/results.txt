@@ -1,0 +1,1 @@
+theoretical optimal: p(error) = 0.14683
